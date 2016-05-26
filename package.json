@@ -1,0 +1,10 @@
+{
+  "name": "pcs-n",
+  "version": "0.0.1",
+  "description": "Small wrapper around the `npm` command",
+  "bin": {
+    "n": "./n.sh"
+  },
+  "author": "Gregory Benner <gregbenner1@gmail.com> (https://github.com/Klathmon)",
+  "license": "MIT"
+}
